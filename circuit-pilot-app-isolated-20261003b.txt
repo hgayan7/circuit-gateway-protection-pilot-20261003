@@ -1,1 +1,1 @@
-Synthetic Circuit pilot fixture.
+Updated synthetic fixture for stale SHA test.

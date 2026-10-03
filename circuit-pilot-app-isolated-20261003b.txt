@@ -1,0 +1,1 @@
+Updated synthetic fixture for stale SHA test.
